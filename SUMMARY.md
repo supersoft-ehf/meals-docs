@@ -24,10 +24,15 @@
 ***
 
 * [Hvað er aukahlutir með máltíð ?](hvad-er-aukahlutir-med-maltid.md)
+* [Page](page.md)
 
 ## Fyrirtæki
 
-* [Page 2](fyrirtaeki/page-2.md)
+* [Hvernig stofna ég matseðil ?](fyrirtaeki/hvernig-stofna-eg-matsedil.md)
+
+***
+
+* [Hvernig bæti ég við notendum ?](hvernig-baeti-eg-vid-notendum.md)
 
 ## Einstaklingar
 
