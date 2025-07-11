@@ -24,7 +24,8 @@
 ***
 
 * [Hvað er aukahlutir með máltíð ?](hvad-er-aukahlutir-med-maltid.md)
-* [Page](page.md)
+* [Hvernig bæti ég við fyrirtæki í viðskipti e](hvernig-baeti-eg-vid-fyrirtaeki-i-vidskipti-e.md)
+* [Hvað er Leiðir ?](hvad-er-leidir.md)
 
 ## Fyrirtæki
 
