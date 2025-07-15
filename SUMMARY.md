@@ -24,8 +24,12 @@
 ***
 
 * [Hvað er aukahlutir með máltíð ?](hvad-er-aukahlutir-med-maltid.md)
-* [Hvernig bæti ég við fyrirtæki í viðskipti e](hvernig-baeti-eg-vid-fyrirtaeki-i-vidskipti-e.md)
+* [Hvernig bæti ég við fyrirtæki ?](hvernig-baeti-eg-vid-fyrirtaeki.md)
 * [Hvað er Leiðir ?](hvad-er-leidir.md)
+* [Hvað er skipulag matseðla ?](hvad-er-skipulag-matsedla.md)
+* [Stillingar](stillingar/README.md)
+  * [Notendastillingar](stillingar/notendastillingar.md)
+  * [Liðsstillingar](stillingar/lidsstillingar.md)
 
 ## Fyrirtæki
 
@@ -34,6 +38,7 @@
 ***
 
 * [Hvernig bæti ég við notendum ?](hvernig-baeti-eg-vid-notendum.md)
+* [Page](page.md)
 
 ## Einstaklingar
 
