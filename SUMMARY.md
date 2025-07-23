@@ -20,16 +20,16 @@
 
 * [Hvernig stofna ég nýjann flokk ?](veitingastadir/hvernig-stofna-eg-nyjann-flokk.md)
 * [Hvernig stofna ég rétt ?](veitingastadir/hvernig-stofna-eg-rett.md)
+* [Hvað er aukahlutir með máltíð ?](veitingastadir/hvad-er-aukahlutir-med-maltid.md)
 
 ***
 
-* [Hvað er aukahlutir með máltíð ?](hvad-er-aukahlutir-med-maltid.md)
-* [Hvernig bæti ég við fyrirtæki ?](hvernig-baeti-eg-vid-fyrirtaeki.md)
-* [Hvað er Leiðir ?](hvad-er-leidir.md)
-* [Hvað er skipulag matseðla ?](hvad-er-skipulag-matsedla.md)
 * [Stillingar](stillingar/README.md)
   * [Notendastillingar](stillingar/notendastillingar.md)
   * [Liðsstillingar](stillingar/lidsstillingar.md)
+  * [Skipulag matseðla](stillingar/skipulag-matsedla.md)
+  * [Fyrirtæki](stillingar/fyrirtaeki.md)
+  * [Leiðir](stillingar/leidir.md)
 
 ## Fyrirtæki
 
@@ -37,8 +37,10 @@
 
 ***
 
-* [Hvernig bæti ég við notendum ?](hvernig-baeti-eg-vid-notendum.md)
-* [Page](page.md)
+* [Stillingar](stillingar-1/README.md)
+  * [Notendastillingar](stillingar-1/notendastillingar.md)
+  * [Liðsstillingar](stillingar-1/lidsstillingar.md)
+  * [Skipulag pantana](stillingar-1/skipulag-pantana.md)
 
 ## Einstaklingar
 

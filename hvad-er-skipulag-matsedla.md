@@ -1,2 +1,0 @@
-# Hvað er skipulag matseðla ?
-
