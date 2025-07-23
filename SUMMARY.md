@@ -18,30 +18,27 @@
 
 ## Veitingastaðir
 
-* [Hvernig stofna ég nýjann flokk ?](veitingastadir/hvernig-stofna-eg-nyjann-flokk.md)
-* [Hvernig stofna ég rétt ?](veitingastadir/hvernig-stofna-eg-rett.md)
-* [Hvað er aukahlutir með máltíð ?](veitingastadir/hvad-er-aukahlutir-med-maltid.md)
-
-***
-
-* [Stillingar](stillingar/README.md)
-  * [Notendastillingar](stillingar/notendastillingar.md)
-  * [Liðsstillingar](stillingar/lidsstillingar.md)
-  * [Skipulag matseðla](stillingar/skipulag-matsedla.md)
-  * [Fyrirtæki](stillingar/fyrirtaeki.md)
-  * [Leiðir](stillingar/leidir.md)
+* [Algengar spurningar](veitingastadir/algengar-spurningar/README.md)
+  * [Hvernig stofna ég nýjann flokk ?](veitingastadir/algengar-spurningar/hvernig-stofna-eg-nyjann-flokk.md)
+  * [Hvernig stofna ég rétt ?](veitingastadir/algengar-spurningar/hvernig-stofna-eg-rett.md)
+  * [Hvað er aukahlutir með máltíð ?](veitingastadir/algengar-spurningar/hvad-er-aukahlutir-med-maltid.md)
+* [Stillingar](veitingastadir/stillingar/README.md)
+  * [Notendastillingar](veitingastadir/stillingar/notendastillingar.md)
+  * [Liðsstillingar](veitingastadir/stillingar/lidsstillingar.md)
+  * [Skipulag matseðla](veitingastadir/stillingar/skipulag-matsedla.md)
+  * [Fyrirtæki](veitingastadir/stillingar/fyrirtaeki.md)
+  * [Leiðir](veitingastadir/stillingar/leidir.md)
 
 ## Fyrirtæki
 
-* [Hvernig stofna ég matseðil ?](fyrirtaeki/hvernig-stofna-eg-matsedil.md)
-
-***
-
-* [Stillingar](stillingar-1/README.md)
-  * [Notendastillingar](stillingar-1/notendastillingar.md)
-  * [Liðsstillingar](stillingar-1/lidsstillingar.md)
-  * [Skipulag pantana](stillingar-1/skipulag-pantana.md)
+* [Algengar spurningar](fyrirtaeki/algengar-spurningar/README.md)
+  * [Hvernig stofna ég matseðil ?](fyrirtaeki/algengar-spurningar/hvernig-stofna-eg-matsedil.md)
+* [Stillingar](fyrirtaeki/stillingar/README.md)
+  * [Notendastillingar](fyrirtaeki/stillingar/notendastillingar.md)
+  * [Liðsstillingar](fyrirtaeki/stillingar/lidsstillingar.md)
+  * [Skipulag pantana](fyrirtaeki/stillingar/skipulag-pantana.md)
 
 ## Einstaklingar
 
-* [Page 3](einstaklingar/page-3.md)
+* [Algengar spurningar](einstaklingar/algengar-spurningar/README.md)
+  * [Hvernig panta ég mat ?](einstaklingar/algengar-spurningar/hvernig-panta-eg-mat.md)

@@ -6,6 +6,6 @@ description: >-
 
 # Leiðir
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-11 at 15.52.23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-07-11 at 15.52.23.png" alt=""><figcaption></figcaption></figure>
 
 Í stillingum fyrir Fyriræki skráir þú hvaða leið viðkomandi fyrirtæki tilheyrir

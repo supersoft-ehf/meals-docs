@@ -7,4 +7,4 @@ description: >-
 
 # Hvernig stofna ég matseðil ?
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-11 at 14.52.08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-07-11 at 14.52.08.png" alt=""><figcaption></figcaption></figure>

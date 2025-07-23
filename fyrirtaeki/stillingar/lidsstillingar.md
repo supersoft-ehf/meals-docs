@@ -4,13 +4,13 @@ Efst í hægra horninu undir þínum prófíl eru stillingar og þar undir eru l
 
 Eftir þínum réttindum takmarkast hvað þú getur sýslað með nafn liðs og merki liðs
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-23 at 10.38.22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-07-23 at 10.38.22.png" alt=""><figcaption></figcaption></figure>
 
 Þegar þú vilt bjóða liðsmeðlimi skráir þú kennitölu og valfrjálst að skrá netfang.&#x20;
 
 Þar er hægt að bjóða mörgum í einu í liðið og skrá kennitölu og netfang (valfrjálst)
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-23 at 11.15.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-07-23 at 11.15.28.png" alt=""><figcaption></figcaption></figure>
 
 Hlutverk:&#x20;
 
@@ -25,4 +25,4 @@ Meðlimir liðs
 
 Neðar í stillingum er listi yfir meðlimi.  Þar getur þú sýslað með réttindi viðkomandi eða tekið aðila úr liðinu.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-23 at 11.11.17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-07-23 at 11.11.17.png" alt=""><figcaption></figcaption></figure>
