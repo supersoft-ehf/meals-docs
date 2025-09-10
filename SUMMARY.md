@@ -7,15 +7,6 @@
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
-
 ## Veitingastaðir
 
 * [Algengar spurningar](veitingastadir/algengar-spurningar/README.md)
@@ -42,3 +33,6 @@
 
 * [Algengar spurningar](einstaklingar/algengar-spurningar/README.md)
   * [Hvernig panta ég mat ?](einstaklingar/algengar-spurningar/hvernig-panta-eg-mat.md)
+  * [Hvað þýða þessi icon ?](einstaklingar/algengar-spurningar/hvad-thyda-thessi-icon.md)
+  * [Get ég breytt um staðsetningu ?](einstaklingar/algengar-spurningar/get-eg-breytt-um-stadsetningu.md)
+  * [Page](einstaklingar/algengar-spurningar/page.md)
