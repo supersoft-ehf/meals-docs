@@ -25,7 +25,7 @@
 * [Algengar spurningar](fyrirtaeki/algengar-spurningar/README.md)
   * [Hvernig stofna ég matseðil ?](fyrirtaeki/algengar-spurningar/hvernig-stofna-eg-matsedil.md)
   * [Flokkar](fyrirtaeki/algengar-spurningar/flokkar.md)
-  * [Réttir](fyrirtaeki/algengar-spurningar/rettir.md)
+  * [Réttir](fyrirtaeki/algengar-spurningar/hvernig-stofna-eg-nyjan-rett.md)
 * [Stillingar](fyrirtaeki/stillingar/README.md)
   * [Notendastillingar](fyrirtaeki/stillingar/notendastillingar.md)
   * [Liðsstillingar](fyrirtaeki/stillingar/lidsstillingar.md)
