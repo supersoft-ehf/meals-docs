@@ -9,7 +9,9 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-07-11 at 14.52.08.png" alt=""><figcaption></figcaption></figure>
 
-Þú kemst á yfirlitssíðuna með því að smella á þitt logo efst í vinstra horninu.&#x20;
+Þú kemst á upphafssíðu með því að smella á þitt logo efst í vinstra horninu.&#x20;
+
+Ef máltíðin er kemur ekki upp sem þú vilt bjóða, þá á eftir að bæta henni við undir "Réttir".
 
 
 
