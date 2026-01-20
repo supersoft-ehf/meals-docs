@@ -1,10 +1,22 @@
-# Réttir
+# Hvernig stofna ég rétt?
 
-Undir flipanum "Réttir" getur þú sýslað með rétti t.d. bætt við rétt, leitað eftir nafni eða síað eftir flokki.&#x20;
+Efst í valmyndinni er hlekkur á "Réttir".&#x20;
+
+Hér getur þú sýslað með rétti og bætt við rétt, leitað eftir nafni eða síað eftir flokki.&#x20;
+
+Til að bæta við rétt smellir þú á reitinn "Bæta við rétti".&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-01-19 at 11.31.16.png" alt=""><figcaption></figcaption></figure>
 
-Til að bæta við rétt smellir þú á reitinn "Bæta við rétti".&#x20;
+
+
+Hér kemur upp gluggi.&#x20;
+
+#### Nafn
+
+Skrifaðu nafn sr  anaa áafn á rétti t.d. Lambasneiðar.&#x20;
+
+Í lýsingu skrifar þú svo nánari lýsingu um réttinn t.d. Lambasneiðar í hvítlaukspipar með steiktum kartöflum, ofnbökuðum gulrótum og kaldri grillsósu
 
 Þá kemur upp svona gluggi þar sem þú setur inn nafn og lýsingu réttar ásamt upplýsingum eftir þörfum. Svo velur þú flokk og getur sett inn ofnæmisvalda eftir þörfum.&#x20;
 
