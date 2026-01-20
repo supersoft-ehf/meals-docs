@@ -20,12 +20,12 @@
 ## Fyrirtæki
 
 * [Algengar spurningar](fyrirtaeki/algengar-spurningar/README.md)
+  * [Hvernig bæti ég við notendum](fyrirtaeki/algengar-spurningar/hvernig-baeti-eg-vid-notendum.md)
   * [Pantanir](fyrirtaeki/algengar-spurningar/pantanir.md)
 * [Stillingar](fyrirtaeki/stillingar/README.md)
   * [Notendastillingar](fyrirtaeki/stillingar/notendastillingar.md)
   * [Liðsstillingar](fyrirtaeki/stillingar/lidsstillingar.md)
   * [Skipulag pantana](fyrirtaeki/stillingar/skipulag-pantana.md)
-* [Hvernig bæti ég við notendum](fyrirtaeki/hvernig-baeti-eg-vid-notendum.md)
 
 ## Einstaklingar
 
