@@ -9,7 +9,7 @@
   * [Hvernig stofna ég nýjan flokk ?](veitingastadir/algengar-spurningar/hvernig-stofna-eg-nyjann-flokk.md)
   * [Hvernig stofna ég rétt?](veitingastadir/algengar-spurningar/rettir.md)
   * [Hvernig stofna ég matseðil ?](veitingastadir/algengar-spurningar/hvernig-stofna-eg-matsedil.md)
-  * [Hvað er aukahlutir með máltíð ?](veitingastadir/algengar-spurningar/hvad-er-aukahlutir-med-maltid.md)
+  * [Hvernig bæti ég við fyrirtæki og notendum ?](veitingastadir/algengar-spurningar/hvernig-baeti-eg-vid-fyrirtaeki-og-notendum.md)
 * [Stillingar](veitingastadir/stillingar/README.md)
   * [Notendastillingar](veitingastadir/stillingar/notendastillingar.md)
   * [Liðsstillingar](veitingastadir/stillingar/lidsstillingar.md)
@@ -25,6 +25,7 @@
   * [Notendastillingar](fyrirtaeki/stillingar/notendastillingar.md)
   * [Liðsstillingar](fyrirtaeki/stillingar/lidsstillingar.md)
   * [Skipulag pantana](fyrirtaeki/stillingar/skipulag-pantana.md)
+* [Hvernig bæti ég við notendum](fyrirtaeki/hvernig-baeti-eg-vid-notendum.md)
 
 ## Einstaklingar
 
