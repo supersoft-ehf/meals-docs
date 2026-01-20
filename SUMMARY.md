@@ -2,11 +2,6 @@
 
 * [Supermeals](README.md)
 
-## Getting Started
-
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
 ## Veitingastaðir
 
 * [Algengar spurningar](veitingastadir/algengar-spurningar/README.md)
