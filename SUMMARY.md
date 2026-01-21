@@ -9,12 +9,13 @@
   * [Hvernig stofna ég nýjan flokk ?](veitingastadir/algengar-spurningar/hvernig-stofna-eg-nyjann-flokk.md)
   * [Hvernig stofna ég rétt?](veitingastadir/algengar-spurningar/rettir.md)
   * [Hvernig stofna ég matseðil ?](veitingastadir/algengar-spurningar/hvernig-stofna-eg-matsedil.md)
-  * [Hvernig bæti ég við fyrirtæki og notendum ?](veitingastadir/algengar-spurningar/hvernig-baeti-eg-vid-fyrirtaeki-og-notendum.md)
+  * [Hvernig tek ég saman pantanir?](veitingastadir/algengar-spurningar/hvernig-tek-eg-saman-pantanir.md)
 * [Stillingar](veitingastadir/stillingar/README.md)
+  * [Hvernig bæti ég við fyrirtæki í viðskipti?](veitingastadir/stillingar/hvernig-baeti-eg-vid-fyrirtaeki-i-vidskipti.md)
   * [Notendastillingar](veitingastadir/stillingar/notendastillingar.md)
-  * [Liðsstillingar](veitingastadir/stillingar/lidsstillingar.md)
+  * [Hvernig bæti ég við notendum?](veitingastadir/stillingar/hvernig-baeti-eg-vid-notendum.md)
+  * [Hvernig bæti ég við fyrirtæki í viðskipti ?](veitingastadir/stillingar/hvernig-baeti-eg-vid-fyrirtaeki-i-vidskipti-1.md)
   * [Skipulag matseðla](veitingastadir/stillingar/skipulag-matsedla.md)
-  * [Fyrirtæki](veitingastadir/stillingar/fyrirtaeki.md)
   * [Leiðir](veitingastadir/stillingar/leidir.md)
 
 ## Fyrirtæki
