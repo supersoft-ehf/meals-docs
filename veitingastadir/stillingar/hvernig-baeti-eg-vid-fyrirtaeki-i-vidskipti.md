@@ -4,7 +4,7 @@
 
 Efst í hægra horninu, ferð þú **Stillingar** og velur svo **Fyrirtæki.**
 
-ögulega þarf þú hærri réttindi til að eiga við sumar stillingar.
+Mögulega þarf þú hærri réttindi til að eiga við sumar stillingar.
 
 
 
@@ -18,3 +18,8 @@ Til að bæta við fyrirtæki smellir þú á **Bæta við fyrirtæki** takkann
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-01-21 at 09.38.44.png" alt=""><figcaption></figcaption></figure>
 
+Mikilvægt að skrá upplýsingar í alla reiti.&#x20;
+
+
+
+Þegar þú smellir á **Vista fyrirtæki** fær tengiliður tölvup´
