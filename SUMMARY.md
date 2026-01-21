@@ -22,8 +22,8 @@
 ## Fyrirtæki
 
 * [Algengar spurningar](fyrirtaeki/algengar-spurningar/README.md)
+  * [Taka saman pantanir](fyrirtaeki/algengar-spurningar/taka-saman-pantanir.md)
   * [Hvernig bæti ég við notendum](fyrirtaeki/algengar-spurningar/hvernig-baeti-eg-vid-notendum.md)
-  * [Pantanir](fyrirtaeki/algengar-spurningar/pantanir.md)
 * [Stillingar](fyrirtaeki/stillingar/README.md)
   * [Notendastillingar](fyrirtaeki/stillingar/notendastillingar.md)
   * [Liðsstillingar](fyrirtaeki/stillingar/lidsstillingar.md)
@@ -34,5 +34,6 @@
 * [Algengar spurningar](einstaklingar/algengar-spurningar/README.md)
   * [Hvernig skrái ég mig inn?](einstaklingar/algengar-spurningar/page.md)
   * [Hvernig panta ég mat ?](einstaklingar/algengar-spurningar/hvernig-panta-eg-mat.md)
+  * [Hvernig skrái ég ofnæmi?](einstaklingar/algengar-spurningar/hvernig-skrai-eg-ofnaemi.md)
   * [Hvað þýða þessi icon ?](einstaklingar/algengar-spurningar/hvad-thyda-thessi-icon.md)
   * [Get ég breytt um staðsetningu ?](einstaklingar/algengar-spurningar/get-eg-breytt-um-stadsetningu.md)
