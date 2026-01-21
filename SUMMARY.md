@@ -9,10 +9,12 @@
   * [Hvernig stofna ég nýjan flokk ?](veitingastadir/algengar-spurningar/hvernig-stofna-eg-nyjann-flokk.md)
   * [Hvernig stofna ég rétt?](veitingastadir/algengar-spurningar/rettir.md)
   * [Hvernig stofna ég matseðil ?](veitingastadir/algengar-spurningar/hvernig-stofna-eg-matsedil.md)
-  * [Hvernig tek ég saman pantanir?](veitingastadir/algengar-spurningar/hvernig-tek-eg-saman-pantanir.md)
+  * [Hvernig sé ég samantekt dagsins?](veitingastadir/algengar-spurningar/hvernig-se-eg-samantekt-dagsins.md)
+  * [Hvernig sé ég yfirlit pantana?](veitingastadir/algengar-spurningar/hvernig-se-eg-yfirlit-pantana.md)
+  * [Hvernig er hægt að sýsla með pantanir fyrir aðra?](veitingastadir/algengar-spurningar/hvernig-er-haegt-ad-sysla-med-pantanir-fyrir-adra.md)
 * [Stillingar](veitingastadir/stillingar/README.md)
   * [Hvernig bæti ég við fyrirtæki í viðskipti?](veitingastadir/stillingar/hvernig-baeti-eg-vid-fyrirtaeki-i-vidskipti.md)
-  * [Hvernig uppfæri ég netfang mitt?](veitingastadir/stillingar/hvernig-uppfaeri-eg-netfang-mitt.md)
+  * [Hvernig uppfæri ég netfang mitt?](veitingastadir/stillingar/notendastillingar.md)
   * [Hvernig bæti ég við notendum?](veitingastadir/stillingar/hvernig-baeti-eg-vid-notendum.md)
   * [Skipulag matseðla](veitingastadir/stillingar/skipulag-matsedla.md)
   * [Leiðir](veitingastadir/stillingar/leidir.md)
@@ -30,7 +32,7 @@
 ## Einstaklingar
 
 * [Algengar spurningar](einstaklingar/algengar-spurningar/README.md)
-  * [Hvernig skrái ég mig inn?](einstaklingar/algengar-spurningar/hvernig-skrai-eg-mig-inn.md)
+  * [Hvernig skrái ég mig inn?](einstaklingar/algengar-spurningar/page.md)
   * [Hvernig panta ég mat ?](einstaklingar/algengar-spurningar/hvernig-panta-eg-mat.md)
   * [Hvað þýða þessi icon ?](einstaklingar/algengar-spurningar/hvad-thyda-thessi-icon.md)
   * [Get ég breytt um staðsetningu ?](einstaklingar/algengar-spurningar/get-eg-breytt-um-stadsetningu.md)
