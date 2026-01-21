@@ -22,4 +22,4 @@ Mikilvægt að skrá upplýsingar í alla reiti.&#x20;
 
 
 
-Þegar þú smellir á **Vista fyrirtæki** fær tengiliður tölvup´
+Þegar þú smellir á **Vista fyrirtæki** fær tengiliður tölvupóst til staðfestingar og í kjölfarið getur viðkomandi skráð sig inn og bætt við notendum í sill lið til að panta mat.&#x20;
