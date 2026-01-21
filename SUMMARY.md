@@ -4,8 +4,8 @@
 
 ## Veitingastaðir
 
+* [Fyrstu skref](veitingastadir/fyrstu-skref.md)
 * [Algengar spurningar](veitingastadir/algengar-spurningar/README.md)
-  * [Fyrstu skref](veitingastadir/algengar-spurningar/fyrstu-skref.md)
   * [Hvernig stofna ég nýjan flokk ?](veitingastadir/algengar-spurningar/hvernig-stofna-eg-nyjann-flokk.md)
   * [Hvernig stofna ég rétt?](veitingastadir/algengar-spurningar/rettir.md)
   * [Hvernig stofna ég matseðil ?](veitingastadir/algengar-spurningar/hvernig-stofna-eg-matsedil.md)
