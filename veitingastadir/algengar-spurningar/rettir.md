@@ -1,10 +1,10 @@
 # Hvernig stofna ég rétt?
 
-Efst í valmyndinni er hlekkur á "Réttir".&#x20;
+Efst í valmyndinni er hlekkur á **Réttir**.&#x20;
 
 Hér getur þú sýslað með rétti og bætt við rétt, leitað eftir nafni eða síað eftir flokki.&#x20;
 
-Til að bæta við rétt smellir þú á reitinn "Bæta við rétti".&#x20;
+Til að bæta við rétt smellir þú á reitinn **Bæta við rétti**.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-01-20 at 13.31.09.png" alt=""><figcaption></figcaption></figure>
 

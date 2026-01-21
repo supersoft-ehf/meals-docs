@@ -6,7 +6,7 @@ Við hverja stillingu er lýsing sem útskýrir nokkuð vel um hvað viðkomandi
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-01-20 at 13.05.48.png" alt=""><figcaption></figcaption></figure>
 
-Í þessu dæmi er t.d. slökkt á "Virkja kvöldmatseðla".&#x20;
+Í þessu dæmi er t.d. slökkt á **Virkja kvöldmatseðla**.&#x20;
 
 Ef þú vilt bjóða kvöldmat getur þú kveikt á þessari stillingu. Þá þarf að setja sérstaklega upp kvöldmatseðil, með sama hætti og þú setur upp hádegismat.&#x20;
 

@@ -1,8 +1,8 @@
 # Hvernig stofna ég nýjan flokk ?
 
-Efst í valmyndinni er hlekkur á "Flokkar".&#x20;
+Efst í valmyndinni er hlekkur á **Flokkar**.&#x20;
 
-Til að stofna nýjann flokk smellir þú á "Bæta við flokki".
+Til að stofna nýjann flokk smellir þú á **Bæta við flokki**.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-07-11 at 10.21.03.png" alt=""><figcaption></figcaption></figure>
 
