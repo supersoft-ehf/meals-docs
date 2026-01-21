@@ -28,6 +28,7 @@
   * [Notendastillingar](fyrirtaeki/stillingar/notendastillingar.md)
   * [Liðsstillingar](fyrirtaeki/stillingar/lidsstillingar.md)
   * [Skipulag pantana](fyrirtaeki/stillingar/skipulag-pantana.md)
+  * [Page 1](fyrirtaeki/stillingar/page-1.md)
 
 ## Einstaklingar
 
