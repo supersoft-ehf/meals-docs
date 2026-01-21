@@ -1,6 +1,8 @@
-# Liðsstillingar
+# Hvernig bæti ég við notendum?
 
-Í liðsstillingum eru ýmsar stillingar.&#x20;
+Efst í hægra horninu, ferð þú **Stillingar** og velur svo **Fyrirtæki.**
+
+Undir **Liðsstillingar** eru ýmsar stillingar.&#x20;
 
 Mögulega þarf þú hærri réttindi til að eiga við sumar stillingar.
 
@@ -12,4 +14,10 @@ Flestir starfsmenn sem panta mat eru með hlutverkið "Notandi" og get þá aðe
 
 "Stjórnandi" (Admin) hlutverk gefur réttindi til að sýsla með meðlimi og skoða matarpantanir fyrir fyrirtækið allt. &#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-07-14 at 13.44.01.png" alt=""><figcaption></figcaption></figure>
+
+
+Til að bæta við notanda sem hefur réttindi til að panta mat, skráir þú kennitöku og netfang viðkomandi og velur hlutverk: **Notandi**
+
+Viðkomandi fær þá tölvupóst til staðfestingar og getur í kjölfarið skráð sig inn og pantað mat.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-01-21 at 10.12.37.png" alt=""><figcaption></figcaption></figure>

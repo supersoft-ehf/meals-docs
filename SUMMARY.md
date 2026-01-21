@@ -12,9 +12,8 @@
   * [Hvernig tek ég saman pantanir?](veitingastadir/algengar-spurningar/hvernig-tek-eg-saman-pantanir.md)
 * [Stillingar](veitingastadir/stillingar/README.md)
   * [Hvernig bæti ég við fyrirtæki í viðskipti?](veitingastadir/stillingar/hvernig-baeti-eg-vid-fyrirtaeki-i-vidskipti.md)
-  * [Notendastillingar](veitingastadir/stillingar/notendastillingar.md)
+  * [Hvernig uppfæri ég netfang mitt?](veitingastadir/stillingar/hvernig-uppfaeri-eg-netfang-mitt.md)
   * [Hvernig bæti ég við notendum?](veitingastadir/stillingar/hvernig-baeti-eg-vid-notendum.md)
-  * [Hvernig bæti ég við fyrirtæki í viðskipti ?](veitingastadir/stillingar/hvernig-baeti-eg-vid-fyrirtaeki-i-vidskipti-1.md)
   * [Skipulag matseðla](veitingastadir/stillingar/skipulag-matsedla.md)
   * [Leiðir](veitingastadir/stillingar/leidir.md)
 
@@ -31,7 +30,7 @@
 ## Einstaklingar
 
 * [Algengar spurningar](einstaklingar/algengar-spurningar/README.md)
+  * [Hvernig skrái ég mig inn?](einstaklingar/algengar-spurningar/hvernig-skrai-eg-mig-inn.md)
   * [Hvernig panta ég mat ?](einstaklingar/algengar-spurningar/hvernig-panta-eg-mat.md)
   * [Hvað þýða þessi icon ?](einstaklingar/algengar-spurningar/hvad-thyda-thessi-icon.md)
   * [Get ég breytt um staðsetningu ?](einstaklingar/algengar-spurningar/get-eg-breytt-um-stadsetningu.md)
-  * [Page](einstaklingar/algengar-spurningar/page.md)
