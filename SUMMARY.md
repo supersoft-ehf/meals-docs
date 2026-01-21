@@ -11,7 +11,7 @@
   * [Hvernig stofna ég matseðil ?](veitingastadir/algengar-spurningar/hvernig-stofna-eg-matsedil.md)
   * [Hvernig sé ég samantekt dagsins?](veitingastadir/algengar-spurningar/hvernig-se-eg-samantekt-dagsins.md)
   * [Hvernig sé ég yfirlit pantana?](veitingastadir/algengar-spurningar/hvernig-se-eg-yfirlit-pantana.md)
-  * [Hvernig er hægt að sýsla með pantanir fyrir aðra?](veitingastadir/algengar-spurningar/hvernig-er-haegt-ad-sysla-med-pantanir-fyrir-adra.md)
+  * [Hvernig er bæta við pöntun fyrir starfsmann](veitingastadir/algengar-spurningar/hvernig-er-baeta-vid-pontun-fyrir-starfsmann.md)
 * [Stillingar](veitingastadir/stillingar/README.md)
   * [Hvernig bæti ég við fyrirtæki í viðskipti?](veitingastadir/stillingar/hvernig-baeti-eg-vid-fyrirtaeki-i-vidskipti.md)
   * [Hvernig uppfæri ég netfang mitt?](veitingastadir/stillingar/notendastillingar.md)
