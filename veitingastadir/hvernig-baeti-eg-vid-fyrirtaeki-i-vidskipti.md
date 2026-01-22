@@ -18,4 +18,6 @@ Mikilvægt að skrá upplýsingar í alla reiti.&#x20;
 
 Uppfæra leið fyrir fyrirtæki
 
-Sja
+Sjá myndband
+
+{% embed url="https://share.cleanshot.com/rKmlZVmP" %}

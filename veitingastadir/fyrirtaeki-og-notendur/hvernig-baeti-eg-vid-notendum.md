@@ -6,17 +6,15 @@ Undir **Liðsstillingar** eru ýmsar stillingar.&#x20;
 
 Mögulega þarf þú hærri réttindi til að eiga við sumar stillingar.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-07-14 at 13.42.48.png" alt=""><figcaption></figcaption></figure>
+Sjá myndband:
 
-Neðar getur þú bætt við notendum.
-
-Flestir starfsmenn sem panta mat eru með hlutverkið **Notandi** og get þá aðeins pantar mat fyrir sig og skoðað eigin matarpantanir.&#x20;
-
-**Stjórnandi** (Admin) hlutverk gefur réttindi til að sýsla með meðlimi og skoða matarpantanir fyrir fyrirtækið allt. &#x20;
+{% embed url="https://share.cleanshot.com/vfcW3qN7" %}
 
 
 
 Til að bæta við notanda sem hefur réttindi til að panta mat, skráir þú kennitöku og netfang viðkomandi og velur hlutverk: **Notandi**
+
+**Stjórnandi** (Admin) hlutverk gefur réttindi til að sýsla með meðlimi og skoða matarpantanir fyrir fyrirtækið allt. &#x20;
 
 Viðkomandi fær þá tölvupóst til staðfestingar og getur í kjölfarið skráð sig inn og pantað mat.&#x20;
 

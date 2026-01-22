@@ -12,23 +12,23 @@
   * [Matseðill](veitingastadir/hvernig-stofna-eg-matsedil.md)
 * [Pantanir](veitingastadir/pantanir/README.md)
   * [Yfirlit dagsins](veitingastadir/hvernig-se-eg-samantekt-dagsins.md)
-  * [Hvernig sé ég yfirlit pantana?](veitingastadir/pantanir/hvernig-se-eg-yfirlit-pantana.md)
-  * [Bæta við pöntun fyrir starfsmann](veitingastadir/pantanir/baeta-vid-pontun-fyrir-starfsmann.md)
-* [Fyrirtæki og notendur](veitingastadir/fyrirtaeki-og-notendur/README.md)
-  * [Bæta við fyrirtæki í viðskipti?](veitingastadir/fyrirtaeki-og-notendur/baeta-vid-fyrirtaeki-i-vidskipti.md)
-  * [Leiðir](veitingastadir/fyrirtaeki-og-notendur/leidir.md)
-* [Hvernig uppfæri ég netfang mitt?](veitingastadir/hvernig-uppfaeri-eg-netfang-mitt.md)
-* [Hvernig bæti ég við notendum?](veitingastadir/hvernig-baeti-eg-vid-notendum.md)
+  * [Hvernig sé ég yfirlit pantana?](veitingastadir/hvernig-se-eg-yfirlit-pantana.md)
+  * [Bæta við pöntun fyrir starfsmann](veitingastadir/hvernig-er-baeta-vid-pontun-fyrir-starfsmann.md)
+* [Fyrirtæki og notendur](veitingastadir/stillingar.md)
+  * [Bæta við fyrirtæki í viðskipti?](veitingastadir/hvernig-baeti-eg-vid-fyrirtaeki-i-vidskipti.md)
+  * [Leiðir](veitingastadir/leidir.md)
+  * [Hvernig uppfæri ég netfang mitt?](veitingastadir/fyrirtaeki-og-notendur/hvernig-uppfaeri-eg-netfang-mitt.md)
+  * [Hvernig bæti ég við notendum?](veitingastadir/fyrirtaeki-og-notendur/hvernig-baeti-eg-vid-notendum.md)
 
 ## Fyrirtæki
 
-* [Algengar spurningar](fyrirtaeki/algengar-spurningar/README.md)
-  * [Taka saman pantanir](fyrirtaeki/algengar-spurningar/taka-saman-pantanir.md)
-  * [Hvernig bæti ég við notendum](fyrirtaeki/algengar-spurningar/hvernig-baeti-eg-vid-notendum.md)
-* [Stillingar](fyrirtaeki/stillingar/README.md)
-  * [Notendastillingar](fyrirtaeki/stillingar/notendastillingar.md)
-  * [Liðsstillingar](fyrirtaeki/stillingar/lidsstillingar.md)
-  * [Skipulag pantana](fyrirtaeki/stillingar/skipulag-pantana.md)
+* [Notendur](fyrirtaeki/notendur/README.md)
+  * [Hvernig bæti ég við notendum](fyrirtaeki/notendur/hvernig-baeti-eg-vid-notendum.md)
+  * [Notendastillingar](fyrirtaeki/notendur/notendastillingar.md)
+* [Pantanir](fyrirtaeki/pantanir/README.md)
+  * [Taka saman pantanir](fyrirtaeki/pantanir/taka-saman-pantanir.md)
+  * [Skipulag pantana](fyrirtaeki/pantanir/skipulag-pantana.md)
+  * [Ofmæmisstillingar](fyrirtaeki/pantanir/ofmaemisstillingar.md)
 
 ## Einstaklingar
 

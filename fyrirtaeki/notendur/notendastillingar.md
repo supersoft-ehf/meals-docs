@@ -1,6 +1,6 @@
 # Notendastillingar
 
-Efst í hægra horninu undir þínum prófíl eru stillingar og þar undir eru notendastillingar
+Efst í hægra horninu, ferð þú **Stillingar** og velur svo **Notendastillingar.**
 
 Þar er hægt að uppfæra netfang og prófílmynd
 
