@@ -4,18 +4,18 @@
 
 ## Veitingastaðir
 
-* [Fyrstu skref](veitingastadir/fyrstu-skref.md)
+* [Uppsetning](veitingastadir/uppsetning/README.md)
+  * [Fyrstu skref](veitingastadir/uppsetning/fyrstu-skref.md)
+  * [Skipulag matseðla](veitingastadir/uppsetning/skipulag-matsedla.md)
 * [Hvernig stofna ég nýjan flokk ?](veitingastadir/hvernig-stofna-eg-nyjan-flokk.md)
 * [Hvernig stofna ég rétt?](veitingastadir/hvernig-stofna-eg-rett.md)
 * [Hvernig stofna ég matseðil ?](veitingastadir/hvernig-stofna-eg-matsedil.md)
 * [Hvernig sé ég samantekt dagsins?](veitingastadir/hvernig-se-eg-samantekt-dagsins.md)
 * [Hvernig sé ég yfirlit pantana?](veitingastadir/hvernig-se-eg-yfirlit-pantana.md)
 * [Hvernig er bæta við pöntun fyrir starfsmann](veitingastadir/hvernig-er-baeta-vid-pontun-fyrir-starfsmann.md)
-* [Algengar spurningar](veitingastadir/algengar-spurningar.md)
 * [Hvernig bæti ég við fyrirtæki í viðskipti?](veitingastadir/hvernig-baeti-eg-vid-fyrirtaeki-i-vidskipti.md)
 * [Hvernig uppfæri ég netfang mitt?](veitingastadir/hvernig-uppfaeri-eg-netfang-mitt.md)
 * [Hvernig bæti ég við notendum?](veitingastadir/hvernig-baeti-eg-vid-notendum.md)
-* [Skipulag matseðla](veitingastadir/skipulag-matsedla.md)
 * [Leiðir](veitingastadir/leidir.md)
 * [Stillingar](veitingastadir/stillingar.md)
 
