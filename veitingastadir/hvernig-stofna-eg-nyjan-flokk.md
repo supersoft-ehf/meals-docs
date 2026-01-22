@@ -6,7 +6,7 @@ Til að stofna nýjann flokk smellir þú á **Bæta við flokki**.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-07-11 at 10.21.03.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://share.cleanshot.com/vQSyNCwm" %}
+{% embed url="https://share.cleanshot.com/wHg91TJ0" %}
 
 Hér kemur upp gluggi þar sem þú skrifar nafn flokksins t.d. Súpa, Kjöt, Fiskur og einnig á ensku.&#x20;
 
