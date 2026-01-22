@@ -11,7 +11,7 @@
   * [Réttir](veitingastadir/hvernig-stofna-eg-rett.md)
   * [Matseðill](veitingastadir/hvernig-stofna-eg-matsedil.md)
 * [Pantanir](veitingastadir/pantanir/README.md)
-  * [Yfirlit dagsins](veitingastadir/pantanir/yfirlit-dagsins.md)
+  * [Yfirlit dagsins](veitingastadir/hvernig-se-eg-samantekt-dagsins.md)
 * [Hvernig sé ég yfirlit pantana?](veitingastadir/hvernig-se-eg-yfirlit-pantana.md)
 * [Hvernig er bæta við pöntun fyrir starfsmann](veitingastadir/hvernig-er-baeta-vid-pontun-fyrir-starfsmann.md)
 * [Hvernig bæti ég við fyrirtæki í viðskipti?](veitingastadir/hvernig-baeti-eg-vid-fyrirtaeki-i-vidskipti.md)
