@@ -1,4 +1,6 @@
-# Hvernig stofna ég nýjan flokk ?
+# Flokkar
+
+#### Hvernig stofna ég nýjan flokk ?
 
 Efst í valmyndinni er hlekkur á **Flokkar**.&#x20;
 
@@ -20,5 +22,5 @@ Neðst á síðunni sérð þú yfirlit yfir þá flokka sem þú hefur stofnað
 
 Einnig hægt að eyða eða sýsla með flokka undir Aðgerðir.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-11 at 10.47.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-07-11 at 10.47.59.png" alt=""><figcaption></figcaption></figure>
 
