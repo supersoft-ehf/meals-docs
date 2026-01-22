@@ -1,2 +1,0 @@
-# Algengar spurningar
-

@@ -20,21 +20,18 @@
   * [Hvernig uppfæri ég netfang mitt?](veitingastadir/fyrirtaeki-og-notendur/hvernig-uppfaeri-eg-netfang-mitt.md)
   * [Hvernig bæti ég við notendum?](veitingastadir/fyrirtaeki-og-notendur/hvernig-baeti-eg-vid-notendum.md)
 
-## Fyrirtæki
+## Fyrirtæki og einstaklingar
 
-* [Notendur](fyrirtaeki/notendur/README.md)
-  * [Hvernig bæti ég við notendum](fyrirtaeki/notendur/hvernig-baeti-eg-vid-notendum.md)
-  * [Notendastillingar](fyrirtaeki/notendur/notendastillingar.md)
-* [Pantanir](fyrirtaeki/pantanir/README.md)
-  * [Taka saman pantanir](fyrirtaeki/pantanir/taka-saman-pantanir.md)
-  * [Skipulag pantana](fyrirtaeki/pantanir/skipulag-pantana.md)
-  * [Ofmæmisstillingar](fyrirtaeki/pantanir/ofmaemisstillingar.md)
-
-## Einstaklingar
-
-* [Algengar spurningar](einstaklingar/algengar-spurningar/README.md)
-  * [Hvernig skrái ég mig inn?](einstaklingar/algengar-spurningar/page.md)
-  * [Hvernig panta ég mat ?](einstaklingar/algengar-spurningar/hvernig-panta-eg-mat.md)
-  * [Hvernig skrái ég ofnæmi?](einstaklingar/algengar-spurningar/hvernig-skrai-eg-ofnaemi.md)
-  * [Hvað þýða þessi icon ?](einstaklingar/algengar-spurningar/hvad-thyda-thessi-icon.md)
-  * [Get ég breytt um staðsetningu ?](einstaklingar/algengar-spurningar/get-eg-breytt-um-stadsetningu.md)
+* [Bæta við notendum](fyrirtaeki-og-einstaklingar/baeta-vid-notendum/README.md)
+  * [Hvernig bæti ég við notendum](fyrirtaeki-og-einstaklingar/baeta-vid-notendum/hvernig-baeti-eg-vid-notendum.md)
+  * [Notendastillingar](fyrirtaeki-og-einstaklingar/baeta-vid-notendum/notendastillingar.md)
+* [Pantanir](fyrirtaeki-og-einstaklingar/pantanir/README.md)
+  * [Taka saman pantanir](fyrirtaeki-og-einstaklingar/pantanir/taka-saman-pantanir.md)
+  * [Skipulag pantana](fyrirtaeki-og-einstaklingar/pantanir/skipulag-pantana.md)
+  * [Ofmæmisstillingar](fyrirtaeki-og-einstaklingar/pantanir/ofmaemisstillingar.md)
+* [Notendur](fyrirtaeki-og-einstaklingar/notendur/README.md)
+  * [Hvernig skrái ég mig inn?](fyrirtaeki-og-einstaklingar/notendur/hvernig-skrai-eg-mig-inn.md)
+  * [Hvernig panta ég mat ?](fyrirtaeki-og-einstaklingar/notendur/hvernig-panta-eg-mat.md)
+  * [Hvernig skrái ég ofnæmi?](fyrirtaeki-og-einstaklingar/notendur/hvernig-skrai-eg-ofnaemi.md)
+  * [Hvað þýða þessi icon ?](fyrirtaeki-og-einstaklingar/notendur/hvad-thyda-thessi-icon.md)
+  * [Get ég breytt um staðsetningu ?](fyrirtaeki-og-einstaklingar/notendur/get-eg-breytt-um-stadsetningu.md)
