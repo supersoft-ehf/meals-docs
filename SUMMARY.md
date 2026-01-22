@@ -4,19 +4,19 @@
 
 ## Veitingastaðir
 
-* [Uppsetning](veitingastadir/uppsetning/README.md)
-  * [Fyrstu skref](veitingastadir/uppsetning/fyrstu-skref.md)
-  * [Skipulag matseðla](veitingastadir/uppsetning/skipulag-matsedla.md)
-  * [Flokkar](veitingastadir/uppsetning/flokkar.md)
-  * [Réttir](veitingastadir/uppsetning/rettir.md)
-  * [Matseðill](veitingastadir/uppsetning/matsedill.md)
+* [Uppsetning](veitingastadir/algengar-spurningar.md)
+  * [Fyrstu skref](veitingastadir/fyrstu-skref.md)
+  * [Skipulag matseðla](veitingastadir/skipulag-matsedla.md)
+  * [Flokkar](veitingastadir/hvernig-stofna-eg-nyjan-flokk.md)
+  * [Réttir](veitingastadir/hvernig-stofna-eg-rett.md)
+  * [Matseðill](veitingastadir/hvernig-stofna-eg-matsedil.md)
 * [Pantanir](veitingastadir/pantanir/README.md)
-  * [Yfirlit dagsins](veitingastadir/pantanir/yfirlit-dagsins.md)
-  * [Hvernig sé ég yfirlit pantana?](veitingastadir/pantanir/hvernig-se-eg-yfirlit-pantana.md)
-  * [Bæta við pöntun fyrir starfsmann](veitingastadir/pantanir/baeta-vid-pontun-fyrir-starfsmann.md)
-* [Fyrirtæki og notendur](veitingastadir/fyrirtaeki-og-notendur/README.md)
-  * [Bæta við fyrirtæki í viðskipti?](veitingastadir/fyrirtaeki-og-notendur/baeta-vid-fyrirtaeki-i-vidskipti.md)
-  * [Leiðir](veitingastadir/fyrirtaeki-og-notendur/leidir.md)
+  * [Yfirlit dagsins](veitingastadir/hvernig-se-eg-samantekt-dagsins.md)
+  * [Hvernig sé ég yfirlit pantana?](veitingastadir/hvernig-se-eg-yfirlit-pantana.md)
+  * [Bæta við pöntun fyrir starfsmann](veitingastadir/hvernig-er-baeta-vid-pontun-fyrir-starfsmann.md)
+* [Fyrirtæki og notendur](veitingastadir/stillingar.md)
+  * [Bæta við fyrirtæki í viðskipti?](veitingastadir/hvernig-baeti-eg-vid-fyrirtaeki-i-vidskipti.md)
+  * [Leiðir](veitingastadir/leidir.md)
   * [Hvernig uppfæri ég netfang mitt?](veitingastadir/fyrirtaeki-og-notendur/hvernig-uppfaeri-eg-netfang-mitt.md)
   * [Hvernig bæti ég við notendum?](veitingastadir/fyrirtaeki-og-notendur/hvernig-baeti-eg-vid-notendum.md)
 
@@ -33,7 +33,7 @@
 ## Einstaklingar
 
 * [Algengar spurningar](einstaklingar/algengar-spurningar/README.md)
-  * [Hvernig skrái ég mig inn?](einstaklingar/algengar-spurningar/hvernig-skrai-eg-mig-inn.md)
+  * [Hvernig skrái ég mig inn?](einstaklingar/algengar-spurningar/page.md)
   * [Hvernig panta ég mat ?](einstaklingar/algengar-spurningar/hvernig-panta-eg-mat.md)
   * [Hvernig skrái ég ofnæmi?](einstaklingar/algengar-spurningar/hvernig-skrai-eg-ofnaemi.md)
   * [Hvað þýða þessi icon ?](einstaklingar/algengar-spurningar/hvad-thyda-thessi-icon.md)

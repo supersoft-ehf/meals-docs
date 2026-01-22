@@ -1,2 +1,0 @@
-# Fyrirtæki og notendur
-
