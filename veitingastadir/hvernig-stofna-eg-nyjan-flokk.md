@@ -26,7 +26,7 @@ Neðst á síðunni sérð þú yfirlit yfir þá flokka sem þú hefur stofnað
 
 Auðvelt er að sýsla með flokka undir **Aðgerðir**
 
-Sjá myndband
+Sjá myndband:
 
 {% embed url="https://share.cleanshot.com/Cz3DdCqz" %}
 

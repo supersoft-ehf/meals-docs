@@ -6,7 +6,7 @@ Efst í valmyndinni er hlekkur á **Réttir**.&#x20;
 
 Til að bæta við rétt smellir þú á reitinn **Bæta við rétti**.&#x20;
 
-Sjá myndband
+Sjá myndband:
 
 {% embed url="https://share.cleanshot.com/t8NT9xBj" %}
 
