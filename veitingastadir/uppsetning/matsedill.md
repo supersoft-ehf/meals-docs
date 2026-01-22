@@ -1,4 +1,6 @@
-# Hvernig stofna ég matseðil ?
+# Matseðill
+
+#### Hvernig stofna ég matseðil ?
 
 Smelltu á Supermeals logo-ið efst í vinstra horninu til að komast á upphafssíðuna.&#x20;
 

@@ -14,7 +14,7 @@ Flokkar eru notaðir til að setja rétti í viðeigandi flokk t.d. kjöt, fisku
 
 Þú getur sett upp eins marga flokka og þú vilt.&#x20;
 
-[**Byrja að stofna nýjann flokk.**](uppsetning/flokkar.md)
+[**Byrja að stofna nýjann flokk.**](hvernig-stofna-eg-nyjan-flokk.md)
 
 
 
@@ -28,7 +28,7 @@ Réttir geta einnig verið skilgreindir sem meðlæti eða aukahlutur.&#x20;
 
 Þegar þú stofnar rétt er hann settur í viðeigandi flokk sem þú hefur stofnað.
 
-[**Byrja að stofna nýjann rétt.** ](uppsetning/hvernig-stofna-eg-rett.md)
+[**Byrja að stofna nýjann rétt.** ](uppsetning/rettir.md)
 
 
 
@@ -40,4 +40,4 @@ Fyrir hvern dag setur þú upp rétti og getur verið með marga rétti í boði
 
 Velur einnig aukahluti og meðlæti sem eru í boði.&#x20;
 
-[**Byrja að stofna nýjann matseðil.** ](uppsetning/hvernig-stofna-eg-matsedil.md)
+[**Byrja að stofna nýjann matseðil.** ](uppsetning/matsedill.md)

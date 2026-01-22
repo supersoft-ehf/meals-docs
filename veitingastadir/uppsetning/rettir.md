@@ -1,4 +1,6 @@
-# Hvernig stofna ég rétt?
+# Réttir
+
+#### Hvernig stofna ég rétt?
 
 Efst í valmyndinni er hlekkur á **Réttir**.&#x20;
 
