@@ -12,13 +12,13 @@
   * [Matseðill](veitingastadir/hvernig-stofna-eg-matsedil.md)
 * [Pantanir](veitingastadir/pantanir/README.md)
   * [Yfirlit dagsins](veitingastadir/hvernig-se-eg-samantekt-dagsins.md)
-* [Hvernig sé ég yfirlit pantana?](veitingastadir/hvernig-se-eg-yfirlit-pantana.md)
-* [Hvernig er bæta við pöntun fyrir starfsmann](veitingastadir/hvernig-er-baeta-vid-pontun-fyrir-starfsmann.md)
-* [Hvernig bæti ég við fyrirtæki í viðskipti?](veitingastadir/hvernig-baeti-eg-vid-fyrirtaeki-i-vidskipti.md)
+  * [Hvernig sé ég yfirlit pantana?](veitingastadir/pantanir/hvernig-se-eg-yfirlit-pantana.md)
+  * [Bæta við pöntun fyrir starfsmann](veitingastadir/pantanir/baeta-vid-pontun-fyrir-starfsmann.md)
+* [Fyrirtæki og notendur](veitingastadir/fyrirtaeki-og-notendur/README.md)
+  * [Bæta við fyrirtæki í viðskipti?](veitingastadir/fyrirtaeki-og-notendur/baeta-vid-fyrirtaeki-i-vidskipti.md)
+  * [Leiðir](veitingastadir/fyrirtaeki-og-notendur/leidir.md)
 * [Hvernig uppfæri ég netfang mitt?](veitingastadir/hvernig-uppfaeri-eg-netfang-mitt.md)
 * [Hvernig bæti ég við notendum?](veitingastadir/hvernig-baeti-eg-vid-notendum.md)
-* [Leiðir](veitingastadir/leidir.md)
-* [Stillingar](veitingastadir/stillingar.md)
 
 ## Fyrirtæki
 

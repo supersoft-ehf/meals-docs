@@ -1,7 +1,11 @@
 # Leiðir
 
+Efst í hægra horninu, ferð þú **Stillingar** og velur svo **Leiðir.**
+
 Leiðir er þægileg aðgerð til að hópa saman fyrirtæki fyrir bílstjóra að keyra út mat á viðkomandi fyrirtæki.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-07-11 at 15.52.23.png" alt=""><figcaption></figcaption></figure>
+Sjá myndband:
+
+{% embed url="https://share.cleanshot.com/8rq5hbSd" %}
 
 Í stillingum fyrir Fyriræki skráir þú hvaða leið viðkomandi fyrirtæki tilheyrir
