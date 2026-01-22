@@ -10,9 +10,9 @@ Sjá myndband:
 
 {% embed url="https://share.cleanshot.com/Tl323TQ1" %}
 
-´ gluggi þar sem þú skrifar nafn flokksins t.d. Súpa, Kjöt, Fiskur og einnig á ensku.&#x20;
+Flokkar eru notaðir þegar réttir eru stofnaðir.&#x20;
 
-Flokkar eru notaðir þegar réttir eru stofnaðir.  &#x20;
+Tilgangur með flokkum er til að auðvelda leit og aðgreiningu rétta.   &#x20;
 
 Litur er fyrir auðveldari auðkenningu á tegund matar þegar notendur eru að skoða matseðil.&#x20;
 
@@ -20,7 +20,15 @@ Litur er fyrir auðveldari auðkenningu á tegund matar þegar notendur eru að 
 
 Neðst á síðunni sérð þú yfirlit yfir þá flokka sem þú hefur stofnað og fjölda rétta í viðkomandi flokki.
 
-Einnig hægt að eyða eða sýsla með flokka undir Aðgerðir.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-07-11 at 10.47.59.png" alt=""><figcaption></figcaption></figure>
+
+#### Sýsla með flokka
+
+Auðvelt er að sýsla með flokka undir **Aðgerðir**
+
+Sjá myndband
+
+{% embed url="https://share.cleanshot.com/Cz3DdCqz" %}
+
+
 

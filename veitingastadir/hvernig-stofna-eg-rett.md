@@ -4,17 +4,13 @@
 
 Efst í valmyndinni er hlekkur á **Réttir**.&#x20;
 
-Hér getur þú sýslað með rétti og bætt við rétt, leitað eftir nafni eða síað eftir flokki.&#x20;
-
 Til að bæta við rétt smellir þú á reitinn **Bæta við rétti**.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-01-20 at 13.31.09.png" alt=""><figcaption></figcaption></figure>
+Sjá myndband
+
+{% embed url="https://share.cleanshot.com/t8NT9xBj" %}
 
 
-
-Hér kemur upp gluggi til að bæta við rétti.&#x20;
-
-<figure><img src="../../.gitbook/assets/Screenshot 2026-01-19 at 12.23.35.png" alt=""><figcaption></figcaption></figure>
 
 #### Nafn
 
@@ -56,12 +52,12 @@ Sami réttur getur verið í fleirri en einum flokk. T.d. getur kjötsúpa veri�
 
 Mælum sterklega með því að merkja alla rétti með rétta ofnæmisvalda svo notendur séu upplýstir.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-01-20 at 11.11.55.png" alt=""><figcaption></figcaption></figure>
 
 
+#### Sýsla með rétti
 
-#### Síur
+Það er auðvelt að sýsla með rétti t.d. skoða flokka, meðlæti eða eyða út réttum.&#x20;
 
-Hér er einnig hægt að sía út rétti t.d. til að sjá aðeins kjötrétti.&#x20;
+Sjá myndband.&#x20;
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-01-20 at 13.32.43.png" alt=""><figcaption></figcaption></figure>
+{% embed url="https://share.cleanshot.com/LwT4BwRS" %}

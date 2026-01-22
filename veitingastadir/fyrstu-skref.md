@@ -28,7 +28,7 @@ Réttir geta einnig verið skilgreindir sem meðlæti eða aukahlutur.&#x20;
 
 Þegar þú stofnar rétt er hann settur í viðeigandi flokk sem þú hefur stofnað.
 
-[**Byrja að stofna nýjann rétt.** ](uppsetning/rettir.md)
+[**Byrja að stofna nýjann rétt.** ](hvernig-stofna-eg-rett.md)
 
 
 
@@ -40,4 +40,4 @@ Fyrir hvern dag setur þú upp rétti og getur verið með marga rétti í boði
 
 Velur einnig aukahluti og meðlæti sem eru í boði.&#x20;
 
-[**Byrja að stofna nýjann matseðil.** ](uppsetning/matsedill.md)
+[**Byrja að stofna nýjann matseðil.** ](hvernig-stofna-eg-matsedil.md)
