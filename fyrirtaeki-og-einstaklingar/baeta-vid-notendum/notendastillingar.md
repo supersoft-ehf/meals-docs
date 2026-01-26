@@ -4,4 +4,4 @@ Efst í hægra horninu, ferð þú **Stillingar** og velur svo **Notendastilling
 
 Þar er hægt að uppfæra netfang og prófílmynd
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-07-23 at 10.35.06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/CleanShot 2026-01-26 at 09.24.49.png" alt=""><figcaption></figcaption></figure>

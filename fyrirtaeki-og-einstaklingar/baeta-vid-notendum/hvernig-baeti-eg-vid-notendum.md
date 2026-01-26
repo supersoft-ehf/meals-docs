@@ -10,3 +10,11 @@ Sjá myndband:
 
 {% embed url="https://share.cleanshot.com/ZW9xvF8F" %}
 
+
+
+Einnig er auðvelt hér að uppfæra hlutverk notenda eða fjarlægja.&#x20;
+
+<figure><img src="../../.gitbook/assets/CleanShot 2026-01-26 at 09.20.00.png" alt=""><figcaption></figcaption></figure>
+
+
+
