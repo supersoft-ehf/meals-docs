@@ -8,7 +8,7 @@ Efst í hægra horninu, ferð þú **Stillingar** og velur svo **Liðsstillingar
 
 Sjá myndband:
 
-{% embed url="https://share.cleanshot.com/ZW9xvF8F" %}
+{% embed url="https://share.cleanshot.com/sZP8qWkk" %}
 
 
 

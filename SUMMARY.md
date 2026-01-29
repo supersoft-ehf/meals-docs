@@ -24,6 +24,7 @@
 
 * [Bæta við notendum](fyrirtaeki-og-einstaklingar/baeta-vid-notendum/README.md)
   * [Hvernig bæti ég við notendum](fyrirtaeki-og-einstaklingar/baeta-vid-notendum/hvernig-baeti-eg-vid-notendum.md)
+  * [Uppfæra og eyða notendum](fyrirtaeki-og-einstaklingar/baeta-vid-notendum/uppfaera-og-eyda-notendum.md)
   * [Notendastillingar](fyrirtaeki-og-einstaklingar/baeta-vid-notendum/notendastillingar.md)
   * [Ofmæmisstillingar](fyrirtaeki-og-einstaklingar/baeta-vid-notendum/ofmaemisstillingar.md)
 * [Skoð pantanir](fyrirtaeki-og-einstaklingar/skod-pantanir/README.md)
