@@ -16,9 +16,9 @@
   * [Bæta við pöntun fyrir starfsmann](veitingastadir/hvernig-er-baeta-vid-pontun-fyrir-starfsmann.md)
 * [Fyrirtæki og notendur](veitingastadir/stillingar.md)
   * [Bæta við fyrirtæki í viðskipti?](veitingastadir/hvernig-baeti-eg-vid-fyrirtaeki-i-vidskipti.md)
+  * [Hvernig bæti ég við notendum?](veitingastadir/fyrirtaeki-og-notendur/hvernig-baeti-eg-vid-notendum.md)
   * [Leiðir](veitingastadir/leidir.md)
   * [Hvernig uppfæri ég netfang mitt?](veitingastadir/fyrirtaeki-og-notendur/hvernig-uppfaeri-eg-netfang-mitt.md)
-  * [Hvernig bæti ég við notendum?](veitingastadir/fyrirtaeki-og-notendur/hvernig-baeti-eg-vid-notendum.md)
 
 ## Fyrirtæki og einstaklingar
 

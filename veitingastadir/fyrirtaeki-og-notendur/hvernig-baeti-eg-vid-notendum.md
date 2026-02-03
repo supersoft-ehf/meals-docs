@@ -1,6 +1,6 @@
 # Hvernig bæti ég við notendum?
 
-Efst í hægra horninu, ferð þú **Stillingar** og velur svo **Fyrirtæki.**
+Efst í hægra horninu, ferð þú **Stillingar** og velur svo **Liðsstillingar.**
 
 Undir **Liðsstillingar** eru ýmsar stillingar.&#x20;
 
@@ -8,11 +8,11 @@ Mögulega þarf þú hærri réttindi til að eiga við sumar stillingar.
 
 Sjá myndband:
 
-{% embed url="https://share.cleanshot.com/vfcW3qN7" %}
+{% embed url="https://share.cleanshot.com/Qp40jCcv" %}
 
 
 
-Til að bæta við notanda sem hefur réttindi til að panta mat, skráir þú kennitöku og netfang viðkomandi og velur hlutverk: **Notandi**
+Til að bæta við notanda sem hefur réttindi til að panta mat, skráir þú kennitölu og netfang (valfrjálst) viðkomandi og velur hlutverk: **Notandi**
 
 **Stjórnandi** (Admin) hlutverk gefur réttindi til að sýsla með meðlimi og skoða matarpantanir fyrir fyrirtækið allt. &#x20;
 
