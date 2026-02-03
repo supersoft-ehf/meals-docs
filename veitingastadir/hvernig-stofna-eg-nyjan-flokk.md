@@ -16,9 +16,7 @@ Tilgangur með flokkum er til að auðvelda leit og aðgreiningu rétta.   &#x20
 
 Litur er fyrir auðveldari auðkenningu á tegund matar þegar notendur eru að skoða matseðil.&#x20;
 
-
-
-Neðst á síðunni sérð þú yfirlit yfir þá flokka sem þú hefur stofnað og fjölda rétta í viðkomandi flokki.
+Mælum með því að skrá einnig heiti á flokknum á ensku.&#x20;
 
 
 
