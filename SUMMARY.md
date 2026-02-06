@@ -34,3 +34,18 @@
   * [Hvernig skrái ég ofnæmi?](fyrirtaeki-og-einstaklingar/innskraning-og-panta-mat/hvernig-skrai-eg-ofnaemi.md)
   * [Hvað þýða þessi icon ?](fyrirtaeki-og-einstaklingar/innskraning-og-panta-mat/hvad-thyda-thessi-icon.md)
   * [Get ég breytt um staðsetningu ?](fyrirtaeki-og-einstaklingar/innskraning-og-panta-mat/get-eg-breytt-um-stadsetningu.md)
+
+***
+
+* [API](api/README.md)
+  * ```yaml
+    type: builtin:openapi
+    props:
+      models: false
+      downloadLink: false
+    dependencies:
+      spec:
+        ref:
+          kind: openapi
+          spec: meals-api
+    ```
