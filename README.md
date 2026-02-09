@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
+cover: https://www.supermeals.is/seo-image.png
+coverY: -10.659416299559473
 ---
 
 # Supermeals
