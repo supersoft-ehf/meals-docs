@@ -26,6 +26,7 @@
   * [Bæta við notendum](fyrirtaeki-og-einstaklingar/stillingar/baeta-vid-notendum.md)
   * [Uppfæra og eyða notendum](fyrirtaeki-og-einstaklingar/stillingar/uppfaera-og-eyda-notendum.md)
 * [Pantanir](fyrirtaeki-og-einstaklingar/pantanir/README.md)
+  * [Panta mat](fyrirtaeki-og-einstaklingar/pantanir/panta-mat.md)
   * [Yfirlit pantana](fyrirtaeki-og-einstaklingar/pantanir/yfirlit-pantana.md)
   * [Yfirlit pantana](fyrirtaeki-og-einstaklingar/pantanir/yfirlit-pantana-1.md)
   * [Vikumatseðill](fyrirtaeki-og-einstaklingar/pantanir/vikumatsedill.md)

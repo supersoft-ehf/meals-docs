@@ -12,4 +12,6 @@ Ef það er hakað í reitinn verður sá valmöguleiki ekki í boði. &#x20;
 
 Sjá myndband:
 
-{% embed url="https://share.cleanshot.com/xj0KgWqL" %}
+{% embed url="https://share.cleanshot.com/MMSvBczk" %}
+
+Ef þú getur ekki sýslað með laugardaga og sunnudaga ef það vegna þess að þinn veitingastaður er ekki með þjónustu á þessum dögum, sama gildir um kvöldmat.&#x20;
