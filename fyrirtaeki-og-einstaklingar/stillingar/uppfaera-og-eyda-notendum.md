@@ -4,4 +4,4 @@ Efst í hægra horninu, ferð þú **Stillingar** og velur svo **Liðsstillingar
 
 Sjá myndband:
 
-{% embed url="https://share.cleanshot.com/GpfvtTqK" %}
+{% embed url="https://share.cleanshot.com/S7TNdhyb" %}
