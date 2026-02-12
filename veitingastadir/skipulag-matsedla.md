@@ -8,7 +8,7 @@ Hér velur þú hvort þú vilt hafa **meðlæti** og **aukahluti** með máltí
 
 Sjá myndband:
 
-{% embed url="https://share.cleanshot.com/3XR3Z2g2" %}
+{% embed url="https://share.cleanshot.com/FXPKmyHR" %}
 
 
 
@@ -18,4 +18,3 @@ Við hverja stillingu er stutt lýsing sem útskýrir nokkuð vel um hvað viðk
 
 Ef þú vilt bjóða kvöldmat getur þú kveikt á þessari stillingu. Þá þarf að setja sérstaklega upp kvöldmatseðil, með sama hætti og þú setur upp hádegismat.&#x20;
 
-Neðar á síðunni er hægt að stilla nánar fyrirvara á pöntunum.

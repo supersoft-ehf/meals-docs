@@ -6,7 +6,7 @@ Efst í valmyndinni velur þú **Pantanir.**
 
 Sjá myndband:
 
-{% embed url="https://share.cleanshot.com/dBhDcpHb" %}
+{% embed url="https://share.cleanshot.com/NnsZ5jNQ" %}
 
 
 
@@ -20,7 +20,7 @@ Einnig er hægt að breyta pöntun, undir **Aðgerðir**
 
 Sjá myndband:
 
-{% embed url="https://share.cleanshot.com/bpHsYTHC" %}
+{% embed url="https://share.cleanshot.com/kNy9lJCr" %}
 
 
 

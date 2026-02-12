@@ -8,11 +8,7 @@ Mögulega þarf þú hærri réttindi til að eiga við sumar stillingar.
 
 Sjá myndband:
 
-{% embed url="https://share.cleanshot.com/jyrnTHL2" %}
-Mikilvægt að skrá upplýsingar í alla reiti.&#x20;
-{% endembed %}
-
-
+{% embed url="https://share.cleanshot.com/1QvgfZG5" %}
 
 
 
@@ -26,4 +22,5 @@ Uppfæra leið fyrir fyrirtæki
 
 Sjá myndband:
 
-{% embed url="https://share.cleanshot.com/rKmlZVmP" %}
+{% embed url="https://share.cleanshot.com/Z2fL3fsj" %}
+

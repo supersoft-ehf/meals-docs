@@ -16,7 +16,7 @@
 * [Fyrirtæki og notendur](veitingastadir/stillingar.md)
   * [Bæta við fyrirtæki í viðskipti](veitingastadir/hvernig-baeti-eg-vid-fyrirtaeki-i-vidskipti.md)
   * [Leiðir](veitingastadir/leidir.md)
-  * [Hvernig uppfæri ég netfang mitt?](veitingastadir/fyrirtaeki-og-notendur/hvernig-uppfaeri-eg-netfang-mitt.md)
+  * [Hoppa í fyrirtæki](veitingastadir/fyrirtaeki-og-notendur/hoppa-i-fyrirtaeki.md)
 
 ## Fyrirtæki og einstaklingar
 

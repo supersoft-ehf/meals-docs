@@ -6,6 +6,6 @@ Leiðir er þægileg aðgerð til að hópa saman fyrirtæki fyrir bílstjóra a
 
 Sjá myndband:
 
-{% embed url="https://share.cleanshot.com/8rq5hbSd" %}
+{% embed url="https://share.cleanshot.com/hlg1BvVt" %}
 
 Í stillingum fyrir Fyriræki skráir þú hvaða leið viðkomandi fyrirtæki tilheyrir
