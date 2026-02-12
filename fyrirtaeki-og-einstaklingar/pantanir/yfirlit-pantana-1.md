@@ -1,2 +1,0 @@
-# Yfirlit pantana
-

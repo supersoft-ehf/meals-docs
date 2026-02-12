@@ -1,6 +1,6 @@
 # Panta mat
 
-Það er auðvelt að panta mat.&#x20;
+Það er auðvelt að panta mat þegar þú hefur skráð þig inn.&#x20;
 
 Sjá myndband:
 
