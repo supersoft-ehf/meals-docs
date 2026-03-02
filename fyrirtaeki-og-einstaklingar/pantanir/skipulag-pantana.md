@@ -8,7 +8,7 @@ Skipulag pantana er til að stjórna hvaða framboð er í boði, í þínu fyri
 
 
 
-Ef það er hakað í reitinn verður sá valmöguleiki ekki í boði. &#x20;
+Ef það er hakað í reitinn verður sá valmöguleiki ekki í boði. -> T.d. ef hakað er við "Fiskur" munu allir réttir í flokknum "fiskur" hverfa af matseðli fyrir þitt fyrirtæki.
 
 Sjá myndband:
 
