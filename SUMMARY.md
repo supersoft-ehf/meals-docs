@@ -21,6 +21,7 @@
   * [Bæta við fyrirtæki í viðskipti](veitingastadir/hvernig-baeti-eg-vid-fyrirtaeki-i-vidskipti.md)
   * [Leiðir](veitingastadir/leidir.md)
   * [Hoppa í fyrirtæki](veitingastadir/fyrirtaeki-og-notendur/hoppa-i-fyrirtaeki.md)
+* [Nota á minni vefsíðu (embed)](veitingastadir/nota-a-minni-vefsidu-embed.md)
 
 ## Fyrirtæki og einstaklingar
 
