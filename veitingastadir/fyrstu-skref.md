@@ -28,7 +28,7 @@ Réttir geta einnig verið skilgreindir sem meðlæti eða aukahlutur, ef þú h
 
 Þegar réttir hafa verið stofnaðir er hægt að bæta þeim á matseðil.&#x20;
 
-[**Byrja að stofna nýjann rétt.** ](hvernig-stofna-eg-rett.md)
+[**Byrja að stofna nýjann rétt.** ](rettir/rettir.md)
 
 
 
