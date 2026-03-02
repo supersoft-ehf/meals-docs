@@ -6,15 +6,15 @@ Efst í valmyndinni er hlekkur á **Réttir**.&#x20;
 
 Til að bæta við rétt smellir þú á reitinn **Bæta við rétti**.&#x20;
 
+Sama ferli er notað til að bæta við **Meðlæti** eða **Aukahlut.**
+
 Sjá myndband:
 
-{% embed url="https://share.cleanshot.com/t8NT9xBj" %}
-
-
+{% embed url="https://cln.sh/3P0B1h6K" %}
 
 #### Nafn
 
-Skrifaðu nafn á rétti t.d. Lambasneiðar.&#x20;
+Skrifaðu nafn á rétti t.d. Lambasneiðar eða Þorskur.&#x20;
 
 #### Lýsing
 
@@ -54,27 +54,22 @@ Mælum sterklega með því að merkja alla rétti með rétta ofnæmisvalda svo
 
 
 
-#### Sýsla með rétti
-
-Það er auðvelt að sýsla með rétti hvort sem þú vilt uppfæra eða eyða.&#x20;
-
-Sjá myndband.&#x20;
-
-{% embed url="https://share.cleanshot.com/LwT4BwRS" %}
-
-
-
-
-
-#### Réttir á ensku
+### Sýsla með rétti
 
 Efst í valmyndinni er hlekkur á **Réttir**.&#x20;
 
-Þú velur rétt sem þú vilt uppfæra á ensku og smellir á **Pennann.**
+Það er auðvelt að sýsla með rétti því smella á pennann undir viðkomandi rétt.&#x20;
 
-Þegar allt er klárt smellir þú á **Vista rétt.**
+
+
+### Stjörnumerktir réttir
+
+Efst í valmyndinni er hlekkur á **Réttir**.&#x20;
+
+Þú velur rétt sem þú vilt uppfæra smellir á **Pennann.**
 
 Sjá myndband:&#x20;
 
-{% embed url="https://cln.sh/mzXVs2R5" %}
+{% embed url="https://cln.sh/cX6xRnFr" %}
 
+Þegar allt er klárt smellir þú á **Vista rétt.**
