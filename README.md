@@ -6,7 +6,18 @@ coverY: -10.659416299559473
 
 # Supermeals
 
-Supermeals er nútímalegt kerfi sem auðveldar veitingastöðum og fyrirtækjum að halda utan um máltíðapantanir á einfaldan hátt.<br>
+Supermeals er nútímalegt kerfi sem auðveldar veitingastöðum og fyrirtækjum að halda utan um máltíðapantanir á einfaldan hátt.
+
+### Helstu kostir Supermeals fyrir veitingastaði
+
+* Ýtarlegt yfirlit pantana sem er t.d. hægt að sía eftir fyrirtæki eða notanda og sækja sem Excel.
+* Auðvelt að bæta við nýjum viðskiptavinum.&#x20;
+* Hægt að setja upp leiðir fyrir bílstjóra og setja viðskiptavini í hópa.
+* Auðvelt að stjórna matseðlum eftir vikudögum og bæta við meðlæti og aukahlutum.&#x20;
+* Einfalt að setja matsetðil á þína vefsíðu með "Embed" kóða.
+* Býður upp á matseðil á íslensku og ensku.
+
+### &#x20;Helstu kostir Supermeals fyrir veitingastaði
 
 ### Flýtileiðir
 
