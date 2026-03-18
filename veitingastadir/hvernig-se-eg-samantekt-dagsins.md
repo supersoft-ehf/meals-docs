@@ -4,5 +4,5 @@ Til að sjá yfirlit fyrir daginn er smellt á **Yfirlit** takkann á upphafssí
 
 Sjá myndband:
 
-{% embed url="https://share.cleanshot.com/gtww3hMs" %}
+{% embed url="https://cln.sh/4kmGFKBV" %}
 
