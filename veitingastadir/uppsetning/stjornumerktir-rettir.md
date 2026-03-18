@@ -8,4 +8,4 @@ Efst í valmyndinni er hlekkur á **Réttir**.&#x20;
 
 Sjá myndband:&#x20;
 
-{% embed url="https://cln.sh/v5FxWT5b" %}
+{% embed url="https://cleanshot.com/share/cX6xRnFr" %}
