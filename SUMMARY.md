@@ -12,6 +12,7 @@
   * [Stjörnumerktir réttir](veitingastadir/uppsetning/stjornumerktir-rettir.md)
   * [Matseðill](veitingastadir/hvernig-stofna-eg-matsedil.md)
   * [Skipulag pantana](veitingastadir/uppsetning/skipulag-pantana.md)
+  * [Afpantanir](veitingastadir/uppsetning/afpantanir.md)
 * [Pantanir](veitingastadir/pantanir/README.md)
   * [Hlaða niður Excel eða CSV](veitingastadir/pantanir/hlada-nidur-excel-eda-csv.md)
   * [Hlaða niður Excel eða CSV](veitingastadir/pantanir/hlada-nidur-excel-eda-csv-1.md)
