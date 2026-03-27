@@ -6,7 +6,7 @@ Efst í hægra horninu, ferð þú **Stillingar** og velur svo **Skipulag matse�
 
 Sjá myndband:&#x20;
 
-{% embed url="https://cln.sh/XbTmYLSv" %}
+{% embed url="https://cln.sh/qfzyv5vq" %}
 
 
 
