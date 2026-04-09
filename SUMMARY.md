@@ -15,6 +15,7 @@
   * [Afpantanir](veitingastadir/uppsetning/afpantanir.md)
   * [Athugasemdir með pöntun](veitingastadir/uppsetning/athugasemdir-med-pontun.md)
   * [Skilaboð](veitingastadir/uppsetning/skilabod.md)
+  * [Nýskráning viðskiptavina](veitingastadir/uppsetning/nyskraning-vidskiptavina.md)
 * [Pantanir](veitingastadir/pantanir/README.md)
   * [Hlaða niður Excel eða CSV](veitingastadir/pantanir/hlada-nidur-excel-eda-csv.md)
   * [Hlaða niður Excel eða CSV](veitingastadir/pantanir/hlada-nidur-excel-eda-csv-1.md)
