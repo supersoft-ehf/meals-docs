@@ -4,42 +4,28 @@ Hér eru fyrst skrefin til að setja upp matseðil
 
 #### Við mælum með að vinna í þessari röð:
 
-#### Fara yfir stillingar.&#x20;
+#### Bæta við notendum.&#x20;
 
-Við mælum með því að byrja á því að fara yfir [**skipulag matseðla**](../veitingastadir/skipulag-matsedla.md) áður en flokkar, réttir og matseðlar eru settir upp, vegna þess að í stillingum velur þú t.d. hvort þú vilt bjóða upp á meðlæti, aukahluti og einnig hvort er í boði að pant mat um helgar og kvöld. &#x20;
+Undir **Stillingar > Liðsstillingar**
 
-
-
-#### Stofna flokka.&#x20;
-
-Flokkar eru notaðir til að setja rétti í viðeigandi flokk t.d. kjöt, fiskur, súpa, sætindi, drykkir o.s.fr.&#x20;
-
-Þú getur sett upp eins marga flokka og þú vilt.&#x20;
-
-[**Byrja að stofna nýjann flokk.**](../veitingastadir/hvernig-stofna-eg-nyjan-flokk.md)
+Við mælum með því að byrja á því að [**bæta við notendm**](https://supersoft.gitbook.io/supermeals/fyrirtaeki-og-einstaklingar/stillingar/baeta-vid-notendum) sem eru í liðinu þínu. Þú getur notað **Bjóða mörgun** með því að slá inn kennitölur notenda. &#x20;
 
 
 
-#### Stofna rétti.
+Þú getur einnig notað hlekk sem þú getur sent áfram.&#x20;
 
-Þegar þú stofnar nýjan rétt er hann settur í viðeigandi flokk sem þú hefur stofnað áður. Þú skráir Nafn, lýsingu og innihald eftir þínum óskum. Vörunúmer er valfrjálst en getur verið gagnlegt til að einfalda reikningsgerð.&#x20;
+Sjá mynd:
 
-Réttir geta einnig verið skilgreindir sem meðlæti eða aukahlutur, ef þú hefur opnað fyrir það í stillingum.&#x20;
+<figure><img src="../.gitbook/assets/CleanShot 2026-04-17 at 11.42.08.png" alt=""><figcaption></figcaption></figure>
 
-Þegar réttir hafa verið stofnaðir er hægt að bæta þeim á matseðil.&#x20;
-
-[**Byrja að stofna nýjann rétt.** ](../veitingastadir/uppsetning/rettir.md)
+Þá getur viðkomandi skráð sig inn og auðkennt með rafrænni staðfestingu.&#x20;
 
 
 
-#### Setja upp matseðil.&#x20;
+#### Yfirlit pantana.&#x20;
 
-Fyrir hvern dag setur þú upp rétti eftir óskum.&#x20;
+Undir **Pantanir**
 
-Auðvelt að hafa marga rétti á matseðli fyrir hverng dag, allt eftir þínum óskum.&#x20;
+Einfalt og þægilegt að sía tímabil og notendur til að skoða pantanir og sækja Excel eða CSV.&#x20;
 
-Þú getur sett upp hádegismat eða kvöldmat, sem getur verið ólíkir. Ef þú sért ekki valmöguleika á að bæta við kvöldmat þá þarf þú að skoða stillingar.&#x20;
-
-Velur einnig aukahluti og meðlæti sem eru í boði.&#x20;
-
-[**Byrja að stofna nýjann matseðil.** ](../veitingastadir/hvernig-stofna-eg-matsedil.md)
+[**Yfirlit pantana**](https://supersoft.gitbook.io/supermeals/fyrirtaeki-og-einstaklingar/pantanir/yfirlit-pantana)

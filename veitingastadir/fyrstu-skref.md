@@ -1,4 +1,4 @@
-# Fyrstu skref
+# Fyrstu skref fyrir veitingastaði
 
 Hér eru fyrst skrefin til að setja upp matseðil
 
