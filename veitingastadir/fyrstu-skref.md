@@ -1,6 +1,6 @@
 # Fyrstu skref fyrir veitingastaði
 
-Hér eru fyrst skrefin til að setja upp matseðil
+Hér eru fyrst skrefin til að setja upp matseðil.
 
 #### Við mælum með að vinna í þessari röð:
 
