@@ -2,6 +2,28 @@
 icon: hand-wave
 cover: https://www.supermeals.is/seo-image.png
 coverY: -10.659416299559473
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Supermeals

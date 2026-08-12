@@ -30,6 +30,7 @@
 
 * [Fyrstu skref fyrir fyrirtæki](fyrirtaeki-og-einstaklingar/fyrstu-skref-fyrir-fyrirtaeki.md)
 * [Innskráning og panta mat](fyrirtaeki-og-einstaklingar/innskraning-og-panta-mat/README.md)
+  * [Bæta við starfsólki](fyrirtaeki-og-einstaklingar/innskraning-og-panta-mat/baeta-vid-starfsolki.md)
   * [Hvernig skrái ég mig inn?](fyrirtaeki-og-einstaklingar/innskraning-og-panta-mat/hvernig-skrai-eg-mig-inn.md)
   * [Panta mat](fyrirtaeki-og-einstaklingar/innskraning-og-panta-mat/panta-mat.md)
   * [Ofnæmisvaldar](fyrirtaeki-og-einstaklingar/innskraning-og-panta-mat/ofnaemisvaldar.md)
