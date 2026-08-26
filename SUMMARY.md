@@ -5,6 +5,8 @@
 ## Veitingastaðir
 
 * [Fyrstu skref fyrir veitingastaði](veitingastadir/fyrstu-skref.md)
+* [Kiosk lausn](veitingastadir/kiosk-lausn.md)
+* [Setja QR kóða í veski](veitingastadir/setja-qr-koda-i-veski.md)
 * [Uppsetning](veitingastadir/algengar-spurningar.md)
   * [Skipulag matseðla](veitingastadir/skipulag-matsedla.md)
   * [Flokkar](veitingastadir/hvernig-stofna-eg-nyjan-flokk.md)
@@ -35,6 +37,7 @@
   * [Panta mat](fyrirtaeki-og-einstaklingar/innskraning-og-panta-mat/panta-mat.md)
   * [Ofnæmisvaldar](fyrirtaeki-og-einstaklingar/innskraning-og-panta-mat/ofnaemisvaldar.md)
   * [Get ég breytt um lið/fyrirtæki?](fyrirtaeki-og-einstaklingar/innskraning-og-panta-mat/get-eg-breytt-um-lid-fyrirtaeki.md)
+* [Setja QR kóða í veski](fyrirtaeki-og-einstaklingar/setja-qr-koda-i-veski.md)
 * [Pantanir](fyrirtaeki-og-einstaklingar/pantanir/README.md)
   * [Yfirlit pantana](fyrirtaeki-og-einstaklingar/pantanir/yfirlit-pantana.md)
   * [Vikumatseðill](fyrirtaeki-og-einstaklingar/pantanir/vikumatsedill.md)
