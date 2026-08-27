@@ -7,6 +7,7 @@
 * [Fyrstu skref fyrir veitingastaði](veitingastadir/fyrstu-skref.md)
 * [Kiosk lausn](veitingastadir/kiosk-lausn.md)
 * [Setja QR kóða í veski](veitingastadir/setja-qr-koda-i-veski.md)
+* [Klippikort](veitingastadir/klippikort.md)
 * [Uppsetning](veitingastadir/algengar-spurningar.md)
   * [Skipulag matseðla](veitingastadir/skipulag-matsedla.md)
   * [Flokkar](veitingastadir/hvernig-stofna-eg-nyjan-flokk.md)
